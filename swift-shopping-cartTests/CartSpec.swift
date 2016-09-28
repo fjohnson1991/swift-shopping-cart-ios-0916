@@ -22,7 +22,7 @@ class CartSpec: QuickSpec {
             let 🍕2 = Item(name: "🍕", priceInCents: 150)
             let 🍏2 = Item(name: "🍏", priceInCents: 50)
             
-            
+           
             var emptyCart = Cart()
             var fullCart = Cart()
             var fruitCart = Cart()
